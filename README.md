@@ -1,4 +1,4 @@
-ankita 🌙
+ankita 𝜗ৎ
 
 i like building things on the web.  
 clean, simple, a little cute.
@@ -18,4 +18,4 @@ projects ↓
 
 ---
 
-just building. learning as i go.
+building things i like.
