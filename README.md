@@ -1,4 +1,4 @@
-ankita 𝜗ৎ
+ankita tripathi 𝜗ৎ
 
 i like building things on the web.  
 clean, simple, a little cute.
@@ -11,7 +11,7 @@ clean, simple, a little cute.
 
 projects ↓
 
-- **[StudyBridge](https://study-bridge-2ip9.vercel.app/)** — inclusive learning web app  
+- **[ShippmentApp](https://github.com/vvsleepy/ShippmentApp)** — a full stack app for organising shippments 
 - **[CineView](https://cinevieww.netlify.app/)** — movie browsing app  
 - **[Disaster Alert Dashboard](https://vvsleepy.github.io/-Disaster-Alert-Dashboard/)** — real-time earthquake alerts & maps  
 - **[Multi-threaded HTTP Server](https://github.com/vvsleepy/Multi-threaded-HTTP-Server)** — HTTP/1.1 server built in python  
