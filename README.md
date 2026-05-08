@@ -1,8 +1,8 @@
-ankita tripathi 𝜗ৎ
+#  Ankita tripathi 𝜗ৎ
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=FF4D8D&width=700&lines=Tech+Explorer;Frontend+Developer;UI%2FUX+Designer;Creative+Builder" />
-</p>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=FF4D8D&vCenter=true&width=700&lines=Software+Developer;Open+Source+Enthusiast;UI%2FUX+Designer" 
+/>
 
 
 i like building things on the web.  
