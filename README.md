@@ -1,5 +1,10 @@
 ankita tripathi 𝜗ৎ
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=FF4D8D&width=700&lines=Tech+Explorer;Frontend+Developer;UI%2FUX+Designer;Creative+Builder" />
+</p>
+
+
 i like building things on the web.  
 clean, simple, a little cute.
 
