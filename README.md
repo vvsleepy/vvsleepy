@@ -4,13 +4,13 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=FF4D8D&vCenter=true&width=700&lines=Software+Developer;Open+Source+Enthusiast;UI%2FUX+Designer" 
 />
 
-
+computer science undergrad at BITS Pilani.
 i like building things on the web.  
 clean, simple, a little cute.
 
 📍 bengaluru  
 📧 **[ankitatripathi2006@email.com](mailto:ankitatripathi2006@email.com)**  
-🔗 **[linkedin](https://www.linkedin.com/in/ankita-t-38b201311)**  
+
 
 ---
 
