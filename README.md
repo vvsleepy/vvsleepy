@@ -1,9 +1,8 @@
 #  Ankita Tripathi 𝜗ৎ
 
-<img 
+<!-- <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=F8BBD0&vCenter=true&width=700&lines=Software+Developer;Open+Source+Enthusiast;UI%2FUX+Designer" 
-/>
-
+/> -->
 i am a computer science undergrad at BITS Pilani and i like building things on the web. 
 
 📍 bengaluru  
